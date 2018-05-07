@@ -1,0 +1,21 @@
+Websites to syndicate events to:
+
+Why these websites were chosen.
+
+I chose these websites because they provided the fastest startup speed and did not charge a fee for creating events.
+
+EventBrite
+http://api.eventful.com/rest/events/new?app_key=nJVX3rjQ9mCshGH4&oauth_consumer_key=71ccc7bf77f1c0dd5d4c&oauth_consumer_secret=ab4e33681e26fab1cd95&oath_nonce=1cdb7f498ba9811513f2&title=Concert+In+The+Park&start_time=2005-07-04+17:00:00
+JSON Object for an event:
+{
+  category:"",
+  image:"",
+  eventName:"",
+  price:,
+  date:,
+  timeStart:,
+  timeEnd:,
+  location:"",
+  details:"",
+  merchantInfo:""
+}
